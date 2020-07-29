@@ -1,0 +1,28 @@
+header {
+	background-color: #999;
+	color: #FFF;
+}
+.slot{
+	margin: 10px auto;
+	padding: 20px;
+	border: 1px solid #888;
+	border-radius: 15px;
+	padding: 10px;
+}
+.slot textarea {
+	border: none;
+	outline: none;
+	resize: none;
+	width: 100%;
+	background-color: transparent;
+}
+/* Color Codes */
+.past {
+	background-color: #DDD;
+}
+.future {
+	background-color: #d9fed6;
+}
+.present {
+	background-color: #fef6d6;
+}
